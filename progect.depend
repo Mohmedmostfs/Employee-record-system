@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1679945805 source:f:\nti session\c\progect\progect\linkedlist.c
+	"linkedList.h"
+
+1679945213 f:\nti session\c\progect\progect\linkedlist.h
+	<stdlib.h>
+	<stdio.h>
+
+1679945065 source:f:\nti session\c\progect\progect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedList.h"
+
+1679945805 source:f:\nti session\c\progect\project\linkedlist.c
+	"linkedList.h"
+
+1679945213 f:\nti session\c\progect\project\linkedlist.h
+	<stdlib.h>
+	<stdio.h>
+
+1679945065 source:f:\nti session\c\progect\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedList.h"
+
