@@ -53,6 +53,8 @@ void create_new_empoyee(node_t *head_ptr)
 
             printf("please enter the id of the empoyee \n");
             scanf("%i",&(new_empoyee->ID));
+            printf("please enter the age of the empoyee \n");
+            scanf("%i",&(new_empoyee->age));
             new_empoyee->next=NULL;
             temp->next=new_empoyee;
 
